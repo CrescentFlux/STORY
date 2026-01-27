@@ -55,6 +55,33 @@ title: "🌈故事标本馆"
   .story-title:hover {
     color: #48bbff;
   }
+  .story-list {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 3rem;
+  }
+  .story-sub {
+    font-size: 0.95rem;
+    color: #8892b0;
+    font-style: italic;
+    letter-spacing: 0.5px;
+  }
+  .header {
+    text-align: center;
+    margin-bottom: 4rem;
+    border-bottom: 2px solid rgba(72, 187, 255, 0.3);
+    padding-bottom: 2rem;
+  }
+  .site-title {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    letter-spacing: 3px;
+    color: #ccd6f6;
+  }
+  .site-subtitle {
+    color: #8892b0;
+    font-size: 1.1rem;
+  }
 </style>
 
 <div class="header">
