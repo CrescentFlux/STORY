@@ -58,7 +58,7 @@ title: "🌈故事标本馆"
     letter-spacing: 3px;
   }
   .site-subtitle {
-    color: #666;
+    color: #60b5cfff;
   }
 </style>
 
@@ -69,11 +69,11 @@ title: "🌈故事标本馆"
 
 <ul class="story-list">
   <li class="story-item">
-    <a href="你的故事链接1" class="story-title">一个房间</a>
+    <a href="https://CrescentFlux.github.io/STORY/blob/main/每日故事/2025-08-28-细节描写练习.md" class="story-title">一个房间</a>
     <div class="story-sub">#现代寓言 · 阅读约需 4 分钟</div>
   </li>
   <li class="story-item">
-    <a href="你的故事链接2" class="story-title">她的早餐</a>
+    <a href="https://CrescentFlux.github.io/STORY/blob/main/每日故事/2025-09-02-人物塑造练习.md" class="story-title">她的早餐</a>
     <div class="story-sub">#悬疑 · 阅读约需 7 分钟</div>
   </li>
   <li class="story-item">
