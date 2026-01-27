@@ -19,7 +19,7 @@ title: "🌈故事标本馆"
     padding-left: 0;
   }
   .story-item {
-    border-bottom: 1px dashed #d1eaedff;
+    border-bottom: 1px dashed #182122ff;
     padding: 1.8rem 0;
     transition: all 0.3s ease;
   }
@@ -42,7 +42,7 @@ title: "🌈故事标本馆"
   }
   .story-sub {
     font-size: 0.95rem;
-    color: #c3e1ecff;
+    color: #010c10ff;
     font-style: italic;
     letter-spacing: 0.5px;
   }
