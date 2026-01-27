@@ -77,7 +77,7 @@ title: "🌈故事标本馆"
     <div class="story-sub">#悬疑 · 阅读约需 3 分钟</div>
   </li>
   <li class="story-item">
-    <a href="https://CrescentFlux.github.io/STORY/每日故事/2025-09-02-人物塑造练习2.md" class="story-title">她的双亲</a>
+    <a href="https://CrescentFlux.github.io/STORY/每日故事/2025-09-02-人物塑造练习2" class="story-title">她的双亲</a>
     <div class="story-sub">#悬疑 · 阅读约需 4 分钟</div>
   </li>
   <li class="story-item">
