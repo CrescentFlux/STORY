@@ -69,40 +69,40 @@ title: "🌈故事标本馆"
 
 <ul class="story-list">
   <li class="story-item">
-    <a href="https://CrescentFlux.github.io/STORY/blob/main/每日故事/2025-08-28-细节描写练习.md" class="story-title">一个房间</a>
-    <div class="story-sub">#现代寓言 · 阅读约需 4 分钟</div>
+    <a href="https://CrescentFlux.github.io/STORY/每日故事/2025-08-28-细节描写练习" class="story-title">一个房间</a>
+    <div class="story-sub">#悬疑 · 阅读约需 4 分钟</div>
   </li>
   <li class="story-item">
-    <a href="https://CrescentFlux.github.io/STORY/blob/main/每日故事/2025-09-02-人物塑造练习.md" class="story-title">她的早餐</a>
-    <div class="story-sub">#悬疑 · 阅读约需 7 分钟</div>
+    <a href="https://CrescentFlux.github.io/STORY/每日故事/2025-09-02-人物塑造练习" class="story-title">她的早餐</a>
+    <div class="story-sub">#悬疑 · 阅读约需 3 分钟</div>
   </li>
   <li class="story-item">
     <a href="你的故事链接3" class="story-title">她的双亲</a>
-    <div class="story-sub">#黑色幽默 · 阅读约需 5 分钟</div>
+    <div class="story-sub">#悬疑 · 阅读约需 4 分钟</div>
   </li>
   <li class="story-item">
     <a href="你的故事链接4" class="story-title">五彩斑斓的黑天鹅</a>
-    <div class="story-sub">#科幻浪漫 · 阅读约需 10 分钟</div>
+    <div class="story-sub">#悬疑 · 阅读约需 1 分钟</div>
   </li>
   <li class="story-item">
     <a href="你的故事链接5" class="story-title">解脱的瞬间</a>
-    <div class="story-sub">#硬核科幻 · 阅读约需 15 分钟</div>
+    <div class="story-sub">#悬疑 · 阅读约需 1 分钟</div>
   </li>
   <li class="story-item">
     <a href="你的故事链接5" class="story-title">她的偶遇</a>
-    <div class="story-sub">#硬核科幻 · 阅读约需 15 分钟</div>
+    <div class="story-sub">#悬疑 · 阅读约需 2 分钟</div>
   </li>
   <li class="story-item">
     <a href="你的故事链接5" class="story-title">一个动词</a>
-    <div class="story-sub">#硬核科幻 · 阅读约需 15 分钟</div>
+    <div class="story-sub">#科幻 · 阅读约需 2 分钟</div>
   </li>
   <li class="story-item">
     <a href="你的故事链接5" class="story-title">她离开之后</a>
-    <div class="story-sub">#硬核科幻 · 阅读约需 15 分钟</div>
+    <div class="story-sub">#悬疑 · 阅读约需 3 分钟</div>
   </li>
   <li class="story-item">
     <a href="你的故事链接5" class="story-title">特别</a>
-    <div class="story-sub">#硬核科幻 · 阅读约需 15 分钟</div>
+    <div class="story-sub">#悬疑 · 阅读约需 1 分钟</div>
   </li>
 </ul>
 ---
