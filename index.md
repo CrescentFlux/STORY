@@ -20,13 +20,13 @@ title: "🌈故事标本馆"
     padding-left: 0;
   }
   .story-item {
-    border-bottom: 1px dashed #d4c7a9;
+    border-bottom: 1px dashed #d1eaedff;
     padding: 1.8rem 0;
     transition: all 0.3s ease;
   }
   .story-item:hover {
     padding-left: 1rem;
-    border-bottom-color: #b8860b;
+    border-bottom-color: #3db2d2ff;
   }
   .story-title {
     font-size: 1.8rem;
@@ -36,21 +36,21 @@ title: "🌈故事标本馆"
     color: inherit;
   }
   .story-title:hover {
-    color: #8b4513;
+    color: #032272ff;
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
   }
   .story-sub {
     font-size: 0.95rem;
-    color: #666;
+    color: #c3e1ecff;
     font-style: italic;
     letter-spacing: 0.5px;
   }
   .header {
     text-align: center;
     margin-bottom: 4rem;
-    border-bottom: 2px solid #d4c7a9;
+    border-bottom: 2px solid #89b8c4ff;
     padding-bottom: 2rem;
   }
   .site-title {
