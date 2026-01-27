@@ -1,86 +1,64 @@
 ---
 title: "🌈故事标本馆"
 ---
-
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap');
   body {
-    background-color: #0f0f23;
-    background-image: 
-      radial-gradient(ellipse at 20% 20%, rgba(32, 82, 149, 0.2) 0%, transparent 40%),
-      radial-gradient(ellipse at 80% 80%, rgba(72, 187, 255, 0.15) 0%, transparent 40%);
-    font-family: 'Inter', sans-serif;
-    color: #a0c8ff;
+    background-color: #fefcf5;
+    background-image: radial-gradient(#e0d6c2 1px, transparent 1px);
+    background-size: 30px 30px;
+    font-family: 'Crimson Pro', serif;
+    color: #2c2c2c;
     max-width: 700px;
     margin: 5rem auto;
     padding: 2rem;
     line-height: 1.8;
-    position: relative;
-    overflow-x: hidden;
-  }
-  /* 星光效果 */
-  body::before {
-    content: '';
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: 
-      radial-gradient(1px 1px at 20% 30%, #fff 1px, transparent 0),
-      radial-gradient(1px 1px at 40% 70%, #fff 1px, transparent 0),
-      radial-gradient(1px 1px at 60% 20%, #fff 1px, transparent 0),
-      radial-gradient(1px 1px at 80% 50%, #fff 1px, transparent 0);
-    background-size: 200px 200px;
-    opacity: 0.3;
-    z-index: -1;
-  }
-  .story-item {
-    border-bottom: 1px solid rgba(160, 200, 255, 0.2);
-    padding: 1.8rem 0;
-    transition: all 0.3s ease;
-  }
-  .story-item:hover {
-    padding-left: 1.5rem;
-    border-bottom-color: #48bbff;
-    background: rgba(72, 187, 255, 0.05);
-    border-radius: 4px;
-  }
-  .story-title {
-    font-size: 1.7rem;
-    font-weight: 600;
-    margin-bottom: 0.4rem;
-    color: #c3dafe;
-  }
-  .story-title:hover {
-    color: #48bbff;
   }
   .story-list {
     list-style: none;
     padding-left: 0;
-    margin-top: 3rem;
+  }
+  .story-item {
+    border-bottom: 1px dashed #d1eaedff;
+    padding: 1.8rem 0;
+    transition: all 0.3s ease;
+  }
+  .story-item:hover {
+    padding-left: 1rem;
+    border-bottom-color: #3db2d2ff;
+  }
+  .story-title {
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 0.4rem;
+    text-decoration: none;
+    color: inherit;
+  }
+  .story-title:hover {
+    color: #032272ff;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
   }
   .story-sub {
     font-size: 0.95rem;
-    color: #8892b0;
+    color: #c3e1ecff;
     font-style: italic;
     letter-spacing: 0.5px;
   }
   .header {
     text-align: center;
     margin-bottom: 4rem;
-    border-bottom: 2px solid rgba(72, 187, 255, 0.3);
+    border-bottom: 2px solid #89b8c4ff;
     padding-bottom: 2rem;
   }
   .site-title {
     font-size: 3rem;
     margin-bottom: 0.5rem;
     letter-spacing: 3px;
-    color: #ccd6f6;
   }
   .site-subtitle {
-    color: #8892b0;
-    font-size: 1.1rem;
+    color: #666;
   }
 </style>
 
