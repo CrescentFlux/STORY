@@ -70,23 +70,39 @@ title: "🌈故事标本馆"
 
 <ul class="story-list">
   <li class="story-item">
-    <a href="你的故事链接1" class="story-title">是谁吃掉了昨日的天空？</a>
+    <a href="你的故事链接1" class="story-title">一个房间</a>
     <div class="story-sub">#现代寓言 · 阅读约需 4 分钟</div>
   </li>
   <li class="story-item">
-    <a href="你的故事链接2" class="story-title">下午三点二十七分的失踪者</a>
+    <a href="你的故事链接2" class="story-title">她的早餐</a>
     <div class="story-sub">#悬疑 · 阅读约需 7 分钟</div>
   </li>
   <li class="story-item">
-    <a href="你的故事链接3" class="story-title">离职死神执行指南</a>
+    <a href="你的故事链接3" class="story-title">她的双亲</a>
     <div class="story-sub">#黑色幽默 · 阅读约需 5 分钟</div>
   </li>
   <li class="story-item">
-    <a href="你的故事链接4" class="story-title">亲爱的氧气</a>
+    <a href="你的故事链接4" class="story-title">五彩斑斓的黑天鹅</a>
     <div class="story-sub">#科幻浪漫 · 阅读约需 10 分钟</div>
   </li>
   <li class="story-item">
-    <a href="你的故事链接5" class="story-title">二十一号反应堆自言自语录</a>
+    <a href="你的故事链接5" class="story-title">解脱的瞬间</a>
+    <div class="story-sub">#硬核科幻 · 阅读约需 15 分钟</div>
+  </li>
+  <li class="story-item">
+    <a href="你的故事链接5" class="story-title">她的偶遇</a>
+    <div class="story-sub">#硬核科幻 · 阅读约需 15 分钟</div>
+  </li>
+  <li class="story-item">
+    <a href="你的故事链接5" class="story-title">一个动词</a>
+    <div class="story-sub">#硬核科幻 · 阅读约需 15 分钟</div>
+  </li>
+  <li class="story-item">
+    <a href="你的故事链接5" class="story-title">她离开之后</a>
+    <div class="story-sub">#硬核科幻 · 阅读约需 15 分钟</div>
+  </li>
+  <li class="story-item">
+    <a href="你的故事链接5" class="story-title">特别</a>
     <div class="story-sub">#硬核科幻 · 阅读约需 15 分钟</div>
   </li>
 </ul>
