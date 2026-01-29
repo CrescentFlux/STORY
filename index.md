@@ -104,5 +104,9 @@ title: "🌈故事标本馆"
     <a href="https://CrescentFlux.github.io/STORY/每日故事/2026-01-16-描写练习" class="story-title">特别</a>
     <div class="story-sub">#悬疑 · 阅读约需 1 分钟</div>
   </li>
+  <li class="story-item">
+    <a href="https://CrescentFlux.github.io/STORY/每日故事/2026-01-29-练习" class="story-title">失去</a>
+    <div class="story-sub">#科幻 · 阅读约需 1 分钟</div>
+  </li>
 </ul>
 ---
