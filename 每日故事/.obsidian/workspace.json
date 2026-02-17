@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f0b7ba1cab913b20",
+        "id": "69c42206e1ccab48",
         "type": "tabs",
         "children": [
           {
-            "id": "93fc1cbb0ca963a0",
+            "id": "bb0e90f9cf88e4e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-01-29-练习.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-01-29-练习"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +165,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "93fc1cbb0ca963a0",
+  "active": "bb0e90f9cf88e4e2",
   "lastOpenFiles": [
+    "2026-02-17-练习.md",
     "2026-01-29-练习.md",
     "2026-01-16-描写练习.md",
     "2026-01-04-日常描写练习.md",
