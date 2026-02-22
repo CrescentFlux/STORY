@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "69c42206e1ccab48",
+        "id": "1bc693dd9cf2cd78",
         "type": "tabs",
         "children": [
           {
-            "id": "bb0e90f9cf88e4e2",
+            "id": "c6b26fbdba6cc11f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02-17-练习.md",
+                "file": "2026-02-22-练习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-17-练习"
+              "title": "2026-02-22-练习"
             }
           }
         ]
@@ -169,8 +169,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb0e90f9cf88e4e2",
+  "active": "c6b26fbdba6cc11f",
   "lastOpenFiles": [
+    "2026-02-22-练习.md",
     "2026-02-17-练习.md",
     "2026-01-29-练习.md",
     "2026-01-16-描写练习.md",
