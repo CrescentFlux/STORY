@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: "每日故事/*.md"
+    values:
+      layout: post
