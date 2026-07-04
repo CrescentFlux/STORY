@@ -128,5 +128,9 @@ title: "🌈故事标本馆"
     <a href="https://story.crescentflux.com/每日故事/测试.md" class="story-title">测试</a>
     <div class="story-sub">#悬疑· 阅读约需 1 分钟</div>
   </li>
+  <li class="story-item">
+    <a href="https://story.crescentflux.com/每日故事/abcde.md" class="story-title">测试</a>
+    <div class="story-sub">#悬疑· 阅读约需 1 分钟</div>
+  </li>
 </ul>
 ---
