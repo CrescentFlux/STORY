@@ -121,7 +121,7 @@ title: "🌈故事标本馆"
     <div class="story-sub">#悬疑 · 阅读约需 1 分钟</div>
   </li>
   <li class="story-item">
-    <a href="https://story.crescentflux.com/每日故事/2026-07-04-练习.md" class="story-title">不如意</a>
+    <a href="https://crescentflux.github.io/每日故事/2026-07-04-练习.md" class="story-title">不如意</a>
     <div class="story-sub">#悬疑· 阅读约需 1 分钟</div>
   </li>
 </ul>
