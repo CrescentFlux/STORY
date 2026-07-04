@@ -1,5 +1,0 @@
-defaults:
-  - scope:
-      path: "每日故事"
-    values:
-      layout: post
