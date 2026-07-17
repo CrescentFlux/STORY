@@ -65,8 +65,9 @@ title: "🌈故事标本馆"
 <div class="header">
   <h1 class="site-title">故事标本馆</h1>
   <p class="site-subtitle">每一则标题，都是一个待开启的世界</p>
-  <p style="font-size: 0.75rem; color: #0b0b0aff; margin-top: 0.5rem; letter-spacing: 1px;">··· 心理承受能力差的人禁止观看 ···</p>
+  
 </div>
+<p style="font-size: 0.75rem; color: #0b0b0aff; margin-top: 0.5rem; letter-spacing: 1px;">··· 心理承受能力差的人禁止观看 ···</p>
 
 <ul class="story-list">
   <li class="story-item">
