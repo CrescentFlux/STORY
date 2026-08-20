@@ -194,12 +194,12 @@
   <script>
     function unlockStories() {
       const key = document.getElementById('storyKey').value;
-      if (key === "卿之所历，吾欲闻之，字字不落") {
+      if (key === "卿之所历,吾欲闻之,字字不落") {
         document.getElementById('lockScreen').style.display = 'none';
         document.getElementById('storyContent').style.display = 'block';
         document.getElementById('errorMsg').textContent = '';
       } else {
-        document.getElementById('errorMsg').textContent = '谜底不对，再想想？';
+        document.getElementById('errorMsg').textContent = '解锁失败？';
       }
     }
 
