@@ -113,9 +113,9 @@
       <h1 class="site-title">故事标本馆</h1>
       <p class="site-subtitle">每一则标题，都是一个待开启的世界</p>
     </div>
-    <p style="color: #032272ff;">🔑 输入特定的句子以进入</p>
+    <p style="color: #032272ff;">🐱猜对口令，即可访问所有故事</p>
     <div>
-      <input type="password" id="storyKey" placeholder="请输入那句话..." />
+      <input type="password" id="storyKey" placeholder="请输入你猜到的那句话..." />
       <button onclick="unlockStories()">解锁</button>
     </div>
     <p id="errorMsg"></p>
@@ -195,12 +195,12 @@
     function unlockStories() {
       const key = document.getElementById('storyKey').value;
       // 👇 把 "特定句子" 换成你设定的那句话
-      if (key === "特定句子") {
+      if (key === "love") {
         document.getElementById('lockScreen').style.display = 'none';
         document.getElementById('storyContent').style.display = 'block';
         document.getElementById('errorMsg').textContent = '';
       } else {
-        document.getElementById('errorMsg').textContent = '❌ 那个句子不对，再想想？';
+        document.getElementById('errorMsg').textContent = '❌ 口令不对，再想想？';
       }
     }
 
