@@ -68,7 +68,7 @@
       color: #1e3a8a;
     }
     .site-subtitle {
-      color: #60b5cfff;
+      color: rgb(27, 129, 202);
     }
 
     /* 锁屏区域样式 */
@@ -99,7 +99,7 @@
       background: #60b5cfff;
     }
     #errorMsg {
-      color: #b00020;
+      color: #263098;
       font-size: 0.9rem;
       margin-top: 0.5rem;
       min-height: 1.8rem;
@@ -114,7 +114,7 @@
       <h1 class="site-title">故事标本馆</h1>
       <p class="site-subtitle">祝人间眷侣皆长久，共此明月共此生</p>
     </div>
-    <p style="color: rgb(50, 96, 213);">若问旧时月，试留片语真</p>
+    <p style="color: rgb(25, 56, 133);">若问旧时月，试留片语真</p>
     <div>
       <input type="text" id="storyKey" placeholder="请输入谜底..." style="-webkit-text-security: disc;" />
 <button onclick="unlockStories()">解锁</button>
@@ -199,21 +199,10 @@
         document.getElementById('storyContent').style.display = 'block';
         document.getElementById('errorMsg').textContent = '';
       } else {
-        document.getElementById('errorMsg').textContent = '❌ 那个句子不对，再想想？';
+        document.getElementById('errorMsg').textContent = '谜底不对，再想想？';
       }
     }
 
-    // 按回车键也能触发解锁
-    document.addEventListener('DOMContentLoaded', function() {
-      const input = document.getElementById('storyKey');
-      if (input) {
-        input.addEventListener('keypress', function(e) {
-          if (e.key === 'Enter') {
-            unlockStories();
-          }
-        });
-      }
-    });
   </script>
 
 </body>
