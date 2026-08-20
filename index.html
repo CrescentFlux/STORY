@@ -65,6 +65,7 @@
       font-size: 3rem;
       margin-bottom: 0.5rem;
       letter-spacing: 3px;
+      color: #1e3a8a;
     }
     .site-subtitle {
       color: #60b5cfff;
@@ -107,26 +108,26 @@
 </head>
 <body>
 
-  <!-- ========== 🔐 锁屏区域 ========== -->
+  <!-- ==========  锁屏区域 ========== -->
   <div id="lockScreen">
     <div class="header">
       <h1 class="site-title">故事标本馆</h1>
       <p class="site-subtitle">每一则标题，都是一个待开启的世界</p>
     </div>
-    <p style="color: #032272ff;">若问旧时月，试留片语真</p>
+    <p style="color: rgb(50, 96, 213);">若问旧时月，试留片语真</p>
     <div>
-      <input type="password" id="storyKey" placeholder="请输入谜底..." />
+      <input type="password" id="storyKey" placeholder="请输入谜底..."style="-webkit-text-security: disc; />
       <button onclick="unlockStories()">解锁</button>
     </div>
     <p id="errorMsg"></p>
   </div>
 
-  <!-- ========== 📚 故事列表区域（初始隐藏） ========== -->
+  <!-- ========== 📚 故事列表区域========== -->
   <div id="storyContent" class="hidden">
     <div class="header">
       <h1 class="site-title">故事标本馆</h1>
       <p class="site-subtitle">每一则标题，都是一个待开启的世界</p>
-      <p style="font-size: 0.75rem; color: rgb(18, 8, 217); margin-top: 0.5rem; letter-spacing: 1px;">··· 心理承受能力差的人禁止观看 ···</p>
+      <p style="font-size: 0.75rem; color: rgb(23, 17, 151); margin-top: 0.5rem; letter-spacing: 1px;">··· 心理承受能力差的人禁止观看 ···</p>
     </div>
 
     <ul class="story-list">
@@ -189,7 +190,7 @@
     </ul>
   </div>
 
-  <!-- ========== 🧠 解锁逻辑 ========== -->
+  <!-- ========== 🧠 解锁 ========== -->
   <script>
     function unlockStories() {
       const key = document.getElementById('storyKey').value;
