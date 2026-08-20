@@ -70,7 +70,18 @@
     .site-subtitle {
       color: rgb(27, 129, 202);
     }
-
+    /* ===== 新增：固定输入框颜色 ===== */
+  input,
+  input:focus,
+  input:hover,
+  input:active,
+  input:-webkit-autofill {
+    background-color: #2591c0 !important;
+    border-color: #89b8c4ff !important;
+    outline: none !important;
+    -webkit-box-shadow: 0 0 0 1000px #2b929c inset !important;
+    box-shadow: none !important;
+  }
     /* 锁屏区域样式 */
     #lockScreen {
       text-align: center;
